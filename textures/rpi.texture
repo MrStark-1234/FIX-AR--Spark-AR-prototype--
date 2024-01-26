@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "rpi",
+  "identifier": "texture:1615-fb81ffb2-5a85-4600-b34d-0646ff548a4d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d85beb57044135b8199666404ef08c47",
+  "assetLocator": "textures/rpi.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 647,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1000,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d85beb57044135b8199666404ef08c47",
+      "colorCount": 189772,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 15.14295462201992,
+      "pixelsHigh": 647,
+      "pixelsWide": 1000
+    }
+  ]
+}
